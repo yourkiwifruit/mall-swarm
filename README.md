@@ -159,3 +159,5 @@ mall项目全套学习教程连载中，关注公众号「**macrozheng**」第�
 [Apache License 2.0](https://github.com/macrozheng/mall-swarm/blob/master/LICENSE)
 
 Copyright (c) 2018-2020 macrozheng
+
+bangbang
